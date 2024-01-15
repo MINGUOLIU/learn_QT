@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_gup/a-guanbi2.png</file>
+        <file>icon_gup/a-guanbiquxiao-xian.png</file>
+        <file>icon_gup/a-jiantou-you.png</file>
+        <file>icon_gup/bianji-xian.png</file>
+        <file>icon_gup/gengduo.png</file>
+        <file>icon_gup/gengduo-xian.png</file>
+        <file>icon_gup/guanbi.png</file>
+        <file>icon_gup/huifulishibanben.png</file>
+        <file>icon_gup/riqi-xian.png</file>
+        <file>icon_gup/shouquan-xian.png</file>
+        <file>icon_gup/shuaxin-xian.png</file>
+        <file>icon_gup/sousuo-xian.png</file>
+        <file>icon_gup/tianjia-liebiao.png</file>
+        <file>icon_gup/tishi-xian.png</file>
+    </qresource>
+</RCC>
